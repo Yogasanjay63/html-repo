@@ -37,8 +37,8 @@
         <ul types="square" style="font-size: larger;">
         <li>Python</li> 
         <li>Java</li> 
-        <li>Css</li> 
-        <li>Rubi</li> 
+        <li>c</li> 
+        <li>c++</li> 
         </ul>
         </p>
     </section>
@@ -54,8 +54,6 @@
         <header>CONTACT---</header>
         <p style="font-size: larger;">Phone:9345026053<br>
             Mail:yogasanjaysuresh02@gmail.com<br>
-            To get know more:<a href="https://www.instagram.com/" target="_blank">
-                <button"><b>https://www.instagram.com</b></button>
                 </a><br>
         </p>
     </footer>
