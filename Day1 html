@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -38,7 +37,7 @@
         <li>Python</li> 
         <li>Java</li> 
         <li>Css</li> 
-        <li>Rubi</li> 
+        <li>c++</li> 
         </ul>
         </p>
     </section>
@@ -46,19 +45,15 @@
     <section>
         <dl style="font-size: larger;">Small captions:-</dl>
         <dt style="font-size: larger;">Hello,this is yogasanjay from kg college of arts and science<br>
-             I'm here to present my resume in front you.<br>
-             So,yes please you can question in the basis of the resume</dt><br>
     </section>
     <!--to contact the user--> 
     <footer>
         <header>CONTACT---</header>
         <p style="font-size: larger;">Phone:9345026053<br>
             Mail:yogasanjaysuresh02@gmail.com<br>
-            To get know more:<a href="https://www.instagram.com/" target="_blank">
-                <button"><b>https://www.instagram.com</b></button>
-                </a><br>
         </p>
     </footer>
 </details> 
 </body>
 </html>
+
